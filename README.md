@@ -17,12 +17,6 @@ This project is a **Task Management System** designed to help teams and organiza
 - Generate performance reports and task insights.
 - Approve or reject completed tasks.
 
-### Team Member Features
-- View and update assigned tasks.
-- Communicate with managers through comments on tasks.
-- Track personal task progress and deadlines.
-- View personal performance reports.
-
 ### Pages Included
 1. **Home Page**: Dashboard displaying key task details.
 2. **Task Management**: Add, view, and manage tasks.
